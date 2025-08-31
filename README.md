@@ -2,7 +2,7 @@
 
 <!-- <img src = ./png/github-header-banner.png> -->
 
-![animegif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjRkYWwxNXdyaWJ3MjJrMmtrbnRmanR3b3gxdGJzaG9zOGJqcjd0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JXibbAa7ysN9K/giphy.gif) 
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjRkYWwxNXdyaWJ3MjJrMmtrbnRmanR3b3gxdGJzaG9zOGJqcjd0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JXibbAa7ysN9K/giphy.gif" alt="Anime gif" autoplay></img>
 
 #### About me :
 
