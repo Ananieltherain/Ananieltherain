@@ -13,6 +13,8 @@
 - 🔔 Updates on my Discord server [_**Gapyear University**_](https://discord.gg/UtT3WS6R) 👈 _click to join my discord server_
 - 💼 click here if u want to know my resume [Ananiel](https://ananieltherain.github.io/Portofolio/) 👈 _click to see my resume_
 
+  ###### i use mint, kali,and windows 10 btw 😜😎
+
 <!-- ##### 🤖 Artificial Intelligence 🔝
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
