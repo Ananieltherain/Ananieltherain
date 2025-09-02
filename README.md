@@ -10,6 +10,7 @@
 - 💬 How to start learn program language: [_**roadmap**_](https://github.com/Ananieltherain/ROADMAP) 👈 _click to open roadmap_
 - 📫 How to reach me: _**krsmlwn@gmail.com**_ [_**| <span style="color: steelblue;">+6283872053272</span>**_](https://wa.me/+6283872053272?text=Halo,%20saya%20menemukan%20kontak%20dari%20github%20Anda) 👈 _click to contact me_
 - 🎓 My Education at Vocational High School [_**YADIKA 07**_](https://share.google/ueFmr8gNn2R3gO8o7) 👈 _click to navigation_
+- 🛠 My skill experience: Hardware, CCTV, Network Engineer, Computer, etc.  _see my resume if u want to know my skills_
 - 🔔 Updates on my Discord server [_**Gapyear University**_](https://discord.gg/UtT3WS6R) 👈 _click to join my discord server_
 - 💼 click here if u want to know my resume [Ananiel](https://ananieltherain.github.io/Portofolio/) 👈 _click to see my resume_
 
